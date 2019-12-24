@@ -22,7 +22,6 @@ dependencies {
     testRuntimeOnly("org.junit.vintage:junit-vintage-engine:5.4.2")
 }
 
-
 tasks.test {
     useJUnitPlatform()
 }
